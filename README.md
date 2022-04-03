@@ -1,1 +1,2 @@
-Basics of Shell
+#!/bin/bash
+/n
