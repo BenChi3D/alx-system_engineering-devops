@@ -1,1 +1,2 @@
-#!/bin/bash /n update
+#!/bin/bash
+update
