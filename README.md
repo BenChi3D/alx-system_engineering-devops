@@ -1,2 +1,1 @@
-#!/bin/bash
-update
+Basics of Shell
